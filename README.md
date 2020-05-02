@@ -7,7 +7,7 @@ Java tutorial Basic + Oops + Some Advance Concept.
 
 ## What you can find in this repository
 
-I have solved quite a number of problems from several topics. See the below table for further details. 
+I have cover these topics in this repository. See the below table for further details. 
 
 [//]: # (Run the py script to generate the below table.)
 
