@@ -13,8 +13,21 @@ I have solved quite a number of problems from several topics. See the below tabl
 
 | Topic Name| 
 |  :--------:| 
-| Arrays| 
-| Backtracking|
+| Basic About java | 
+| Variables in java |
+| DataType in java |
+| if-else statements in java |
+| Control Statements in java |
+| loops in java|
+| Array in java|
+| String in java|
+| pattern Base Questions|
+| Static Keyword and static block|
+| Function overloading in java|
+| Constructor and classes in java|
+| Inheritance in java|
+
+
 
 
 
