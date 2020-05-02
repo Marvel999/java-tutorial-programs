@@ -15,7 +15,7 @@ I have cover these topics in this repository. See the below table for further de
 |  :--------:| 
 | Basic About java | 
 | Variables in java |
-| [DataType in java] (https://github.com/Marvel999/java-tutorial-programs/tree/master/dataType) |
+| [DataType in java](https://github.com/Marvel999/java-tutorial-programs/tree/master/dataType) |
 | if-else statements in java |
 | Control Statements in java |
 | loops in java|
