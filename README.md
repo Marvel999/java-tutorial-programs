@@ -13,9 +13,10 @@ I have cover these topics in this repository. See the below table for further de
 
 | Topic Name| 
 |  :--------:| 
-| Basic About java | 
+| [Basic About java](https://github.com/Marvel999/java-tutorial-programs/tree/master/scanner) | 
 | Variables in java |
 | [DataType in java](https://github.com/Marvel999/java-tutorial-programs/tree/master/dataType) |
+| [TypeCasting in java](https://github.com/Marvel999/java-tutorial-programs/tree/master/typeCasting)|
 | if-else statements in java |
 | [Operators in java](https://github.com/Marvel999/java-tutorial-programs/tree/master/opratoreInJava)|
 | Control Statements in java |
