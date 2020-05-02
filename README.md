@@ -17,15 +17,17 @@ I have cover these topics in this repository. See the below table for further de
 | Variables in java |
 | [DataType in java](https://github.com/Marvel999/java-tutorial-programs/tree/master/dataType) |
 | if-else statements in java |
+| [Operators in java](https://github.com/Marvel999/java-tutorial-programs/tree/master/opratoreInJava)|
 | Control Statements in java |
-| loops in java|
-| Array in java|
+| [loops in java](https://github.com/Marvel999/java-tutorial-programs/tree/master/loop_in_Java)|
+| [Array in java](https://github.com/Marvel999/java-tutorial-programs/tree/master/array_practice_package)|
 | String in java|
-| pattern Base Questions|
-| Static Keyword and static block|
-| Function overloading in java|
-| Constructor and classes in java|
-| Inheritance in java|
+| [pattern Base Questions](https://github.com/Marvel999/java-tutorial-programs/tree/master/advance_pattern)|
+| [Static Keyword and static block](https://github.com/Marvel999/java-tutorial-programs/tree/master/staticBlock)|
+| [Functions in java](https://github.com/Marvel999/java-tutorial-programs/tree/master/Methods_IN_Java)|
+| [Function overloading in java](https://github.com/Marvel999/java-tutorial-programs/tree/master/FunctionOverloading)|
+| [Constructor and classes in java](https://github.com/Marvel999/java-tutorial-programs/tree/master/constructor_In_Java)|
+| [Inheritance in java](https://github.com/Marvel999/java-tutorial-programs/tree/master/inheritance_java)|
 
 
 
