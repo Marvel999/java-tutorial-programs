@@ -13,26 +13,22 @@ I have cover these topics in this repository. See the below table for further de
 
 | Topic Name| 
 |  :--------:| 
-| [Basic About java](https://github.com/Marvel999/java-tutorial-programs/tree/master/scanner) | 
-| Variables in java |
-| [DataType in java](https://github.com/Marvel999/java-tutorial-programs/tree/master/dataType) |
-| [TypeCasting in java](https://github.com/Marvel999/java-tutorial-programs/tree/master/typeCasting)|
-| if-else statements in java |
-| [Operators in java](https://github.com/Marvel999/java-tutorial-programs/tree/master/opratoreInJava)|
-| Control Statements in java |
-| [loops in java](https://github.com/Marvel999/java-tutorial-programs/tree/master/loop_in_Java)|
-| [Array in java](https://github.com/Marvel999/java-tutorial-programs/tree/master/array_practice_package)|
-| String in java|
+| [Basic About Java](https://github.com/Marvel999/java-tutorial-programs/tree/master/scanner) | 
+| Variables In Java |
+| [DataType In Java](https://github.com/Marvel999/java-tutorial-programs/tree/master/dataType) |
+| [TypeCasting In Java](https://github.com/Marvel999/java-tutorial-programs/tree/master/typeCasting)|
+| If-Else Statements In Java |
+| [Operators In Java](https://github.com/Marvel999/java-tutorial-programs/tree/master/opratoreInJava)|
+| Control Statements In Java |
+| [Loops In Java](https://github.com/Marvel999/java-tutorial-programs/tree/master/loop_in_Java)|
+| [Array In Java](https://github.com/Marvel999/java-tutorial-programs/tree/master/array_practice_package)|
+| String In java|
 | [pattern Base Questions](https://github.com/Marvel999/java-tutorial-programs/tree/master/advance_pattern)|
-| [Static Keyword and static block](https://github.com/Marvel999/java-tutorial-programs/tree/master/staticBlock)|
-| [Functions in java](https://github.com/Marvel999/java-tutorial-programs/tree/master/Methods_IN_Java)|
-| [Function overloading in java](https://github.com/Marvel999/java-tutorial-programs/tree/master/FunctionOverloading)|
-| [Constructor and classes in java](https://github.com/Marvel999/java-tutorial-programs/tree/master/constructor_In_Java)|
-| [Inheritance in java](https://github.com/Marvel999/java-tutorial-programs/tree/master/inheritance_java)|
-
-
-
-
+| [Static Keyword And Static Block](https://github.com/Marvel999/java-tutorial-programs/tree/master/staticBlock)|
+| [Functions In Java](https://github.com/Marvel999/java-tutorial-programs/tree/master/Methods_IN_Java)|
+| [Function Overloading In Java](https://github.com/Marvel999/java-tutorial-programs/tree/master/FunctionOverloading)|
+| [Constructor And Class In Java](https://github.com/Marvel999/java-tutorial-programs/tree/master/constructor_In_Java)|
+| [Inheritance In Java](https://github.com/Marvel999/java-tutorial-programs/tree/master/inheritance_java)|
 
 ## How to contribute?
 
@@ -42,8 +38,6 @@ I have cover these topics in this repository. See the below table for further de
 
 ## What I'll be doing with this repository
 
-One day in the foreseeable future I will have solved all the challenges on.
-
 Constructive criticisms or code reviews of any kind are very much welcome.
 
-If you have any questions about the Concept you can find here on Google ;), feel free to contact me **manishjobs1999@gmail.com**.
+If you have any questions about the Concept you can find on Google :) and feel free to contact me **manishjobs1999@gmail.com**.
