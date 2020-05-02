@@ -1,7 +1,7 @@
-# java-tutorial
+# Java Tutorial
 ![tutorial](https://user-images.githubusercontent.com/43094705/80869784-07c23900-8cc0-11ea-8cb3-c9dcd9e8e117.png)
 
-# InterviewBit-Topicwise-Solutions
+# Java-Problem-Concept-programs
 
 Java tutorial Basic + Oops + Some Advance Concept.
 
@@ -46,4 +46,4 @@ One day in the foreseeable future I will have solved all the challenges on.
 
 Constructive criticisms or code reviews of any kind are very much welcome.
 
-If you have any questions about the solutions you can find here, feel free to contact me **manishjobs1999@gmail.com**.
+If you have any questions about the Concept you can find here on Google ;), feel free to contact me **manishjobs1999@gmail.com**.
